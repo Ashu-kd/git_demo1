@@ -1,10 +1,10 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="9KGF:3uGDUVw:zL}{*xT" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="!iY}.^:Yi.lgZ=BWF05R"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="9KGF:3uGDUVw:zL}{*xT" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="!iY}.^:Yi.lgZ=BWF05R"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . # . . 
         . . . . . 
         . . . . .
-        `</field></block></statement></block><block type="device_forever" id="6/TP`Vgp.n]Edop:4m3B" x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id="r+$zexq)zZr=N@XDm:)^"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_forever" id="6/TP`Vgp.n]Edop:4m3B" x="205" y="0"><statement name="HANDLER"><block type="device_show_leds" id="r+$zexq)zZr=N@XDm:)^"><field name="LEDS">`
         . . . . . 
         . . # . . 
         . # . # . 
