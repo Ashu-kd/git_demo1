@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showArrow(ArrowNames.East)
+    basic.showArrow(ArrowNames.West)
 })
 basic.showLeds(`
     . . . . .
