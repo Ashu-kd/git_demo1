@@ -1,8 +1,8 @@
 <xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=")2Xpmzz*qA|,A4S=`TI$" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="gR_gM:4v2FPc$@VV2Bgd"><field name="LEDS">`
         . . . . . 
-        . . . . . 
         . . # . . 
-        . . . . . 
+        . # # # . 
+        . . # . . 
         . . . . .
         `</field></block></statement></block><block type="device_forever" id="oWWp{pPxF|=LuFORr^)N" x="237" y="0"><statement name="HANDLER"><block type="device_show_leds" id="m`h2?$14z-?x*xw=qKvN"><field name="LEDS">`
         . . . . . 
@@ -10,4 +10,4 @@
         . # . # . 
         . . # . . 
         . . . . .
-        `</field></block></statement></block><block type="device_button_event" id="c,5D`X]3Z,*^fhEXg)RC" x="241" y="328"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_arrow" id="Ux!,eBUd971qsR^~LGD:"><value name="i"><shadow type="device_arrow" id="0iKJtH$vmH]-AEie-_5j"><field name="arrow">ArrowNames.East</field></shadow></value></block></statement></block></xml>
+        `</field></block></statement></block><block type="device_button_event" id="c,5D`X]3Z,*^fhEXg)RC" x="241" y="328"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_arrow" id="Ux!,eBUd971qsR^~LGD:"><value name="i"><shadow type="device_arrow" id="0iKJtH$vmH]-AEie-_5j"><field name="arrow">ArrowNames.West</field></shadow></value></block></statement></block></xml>
